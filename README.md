@@ -3,4 +3,4 @@ Just another repository
 
 Hi World.
 
-My nae is Aaron Harrington.
+My name is Aaron Harrington.
